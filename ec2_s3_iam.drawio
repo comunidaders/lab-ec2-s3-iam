@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T16:29:40.295Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.0.2" etag="n0-NQLfviasqN_s5KnGs" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-09T16:33:48.690Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="X89BI27xhAPyOMsILSF7" version="23.0.2" type="github">
   <diagram name="Página-1" id="GjrIx-dU5nCI1GoG0SGF">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="19ZUJ7j2EL84kPpPFWJX-6" value="S3" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="130" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="19ZUJ7j2EL84kPpPFWJX-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="19ZUJ7j2EL84kPpPFWJX-2" target="19ZUJ7j2EL84kPpPFWJX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="19ZUJ7j2EL84kPpPFWJX-2" value="EC2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="19ZUJ7j2EL84kPpPFWJX-4" value="file.txt" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="354" y="210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="19ZUJ7j2EL84kPpPFWJX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="19ZUJ7j2EL84kPpPFWJX-5" target="19ZUJ7j2EL84kPpPFWJX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="19ZUJ7j2EL84kPpPFWJX-5" value="ROLE" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
